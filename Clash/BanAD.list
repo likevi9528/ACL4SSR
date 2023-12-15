@@ -1,5 +1,9 @@
 # 本碎片只包含常见广告关键字、广告联盟。无副作用，放心使用
 
+# Reject
+DOMAIN-KEYWORD,stonestudio2015
+DOMAIN-SUFFIX,eastmoney.com
+
 # 广告关键词
 DOMAIN-KEYWORD,admarvel
 DOMAIN-KEYWORD,admaster
